@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "https://exchange.pancakeswap.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "https://exchange.pancakeswap.finance/#/pool",
       },
     ],
   },
@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/hobbitfinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://hobbitfinance.gitbook.io/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://hobbitfinance.medium.com/",
       },
     ],
   },
@@ -72,18 +72,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/VikingSwapOfficial",
+        href: "https://t.me/hobbitfinance",
       },
       {
         label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/hobbitfinance_announcements",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/hobbitfinance",
   },
 ];
 
