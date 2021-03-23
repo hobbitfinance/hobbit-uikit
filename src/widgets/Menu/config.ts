@@ -76,7 +76,7 @@ export const socials = [
       },
       {
         label: "Announcements",
-        href: "https://t.me/hobbitfinance_announcements",
+        href: "https://t.me/hobbitfinance_ann",
       },
     ],
   },
